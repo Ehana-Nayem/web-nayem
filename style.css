@@ -1,0 +1,86 @@
+.bodycolor{
+	
+	background:black;
+}
+h2{cursor:pointer;}
+.nayem{
+	color:white;
+    width: 1124px;
+    height: 1000px;
+    margin: 50px auto;
+}
+.home{
+	margin-right:15px;
+	height: 19px;
+    width: 43px;
+	cursor:pointer;
+	color:white;
+	float:left;
+}
+.About{
+	
+	height: 19px;
+    width: 43px;
+	float:left;
+	cursor:pointer;
+	color:white;
+	margin-right:15px;
+}
+.work{
+	height: 19px;
+    width: 43px;
+	float:left;
+	cursor:pointer;
+	color:white;
+	margin-right:15px;
+}
+.Contact{
+	height: 19px;
+    width: 43px;
+	float:left;
+	cursor:pointer;
+	color:white;
+	margin-right:25px;
+}
+.Instagram{
+	
+	height: 19px;
+    width: 43px;
+	float:left;
+	cursor:pointer;
+	color:white;
+	
+}
+.hid1{
+	text-align:center;
+}
+
+.img1{
+	width:5px;
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
